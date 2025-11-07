@@ -1,0 +1,9 @@
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\TestProjectWebAPI.exe
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.json
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\TestProjectWebAPI.dll
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\TestProjectWebAPI.deps.json
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\TestProjectWebAPI.runtimeconfig.json
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\TestProjectWebAPI.pdb
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rahul__1204\source\repos\TestProjectWebAPI\TestProjectWebAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
